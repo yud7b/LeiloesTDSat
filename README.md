@@ -1,10 +1,23 @@
-# LeiloesTDSat
- HEAD
+# PontoDelivery
 
+Sistema de gerenciamento de pedidos de entrega desenvolvido em Java como parte do curso Técnico em Desenvolvimento de Sistemas do Senac EAD.
 
-1dd727747a614397b9cb1218399fcddadad0acda
-Sistema de gerenciamento de leilões para uma casa de leilões fictícia. O projeto tem como objetivo controlar os produtos leiloados, seus status e valores.
+## Funcionalidades Principais
+- Cadastro, edição e exclusão de produtos
+- Realização de pedidos
+- Histórico de pedidos
 
-## Tecnologias utilizadas
-- Java
-- MySQL
+## Tecnologias
+- Java 11
+- MySQL 8.0
+- Spring Boot (backend)
+
+## Como Usar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/yud7b/PontoDelivery.git
+
+## Desenvolvedor
+Yudi Barreto
+yud7b
+yudibarret24@gmail.com
